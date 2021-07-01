@@ -1,5 +1,10 @@
 # Projeto tic-tac-toe de introdução ao React
 
-## Instalação
+## Instalação/Configuração inicial
 
+- Instalar a última versão no Node JS, disponível neste link [nodejs](https://nodejs.org/)
+
+- Criar um novo projeto
 `npx create-react-app tic-tec-toe`
+
+- Apagar todos os arquivos da pasta src
